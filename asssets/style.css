@@ -363,7 +363,7 @@
     left: 0px;
     width: 200px;
     height: 30px;
-    background: url("/asssets/image/coffee_01.png");
+    background: url("../asssets/image/coffee_01.png");
     background-size: auto 30px;
     background-repeat: no-repeat;
     transition: 1.5s;
@@ -375,7 +375,7 @@
     position: relative;
     left: 65px;
     height: 30px;
-    background: url("/asssets/image/coffee_02.png");
+    background: url("../asssets/image/coffee_02.png");
     background-size: auto 30px;
     background-repeat: no-repeat;
     transform: rotate(0deg);
